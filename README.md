@@ -13,16 +13,12 @@ python3 -m pip install --upgrade pip
 ## Install using pip
 To install SUS libery use the following command:
 ```
-pip install sus
+pip install -i https://test.pypi.org/simple/ sus-libery
 ```
 ## Upgrade SUS tool is up to date
-Windows
+Windows, Linux/MAC OS
 ```
-py -m pip install --upgrade SUS
-```
-Linux/MAC OS
-```
-python3 -m pip install --upgrade SUS
+pip upgrade -i https://test.pypi.org/simple/ sus-libery
 ```
 
 
@@ -61,7 +57,7 @@ from SUS.MCMC import metropolis_hasting
 ### Model evaluation and feature selection module:
 Our libery has its own model evaluation materices to evaluate regression and classification reports. and also have advance feature selection algorithms like PCA and kernals. Feel free to use it and for bugs corrections  or any contact visit my github page.
 
-### GitHub References:
+### Pip References:
 
-https://github.com/mlayek21/SUS-Libery.git
+https://test.pypi.org/project/sus-libery/
 
