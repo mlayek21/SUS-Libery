@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: SUS
+Version: 0.0.1
+Summary: Built of a simple and efficient Machine Learning library for predictive data analysis.
+Home-page: https://github.com/mlayek21/SUS-Libery.git
+Author: Monojit_Layek
+Author-email: mlayek@icloud.com
+Project-URL: Bug Tracker, https://github.com/mlayek21/SUS-Libery
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SUS Libery
+ Simple simple and efficient Machine Learning library for predictive data analysis
